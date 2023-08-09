@@ -3,7 +3,7 @@ source "`brew --prefix`/etc/grc.bashrc"
 
 
 #3ichael-7ambert
-export PS1="🛸\[\033[35m\]3ichael\[\033[m\]-\[\033[36m\]7ambert\[\033[m\]:\[\033[32m\]\w\[\033[m\] $"
+export PS1="🛸\[\033[35m\]3ichael\[\033[m\]-\[\033[36m\]7ambert\[\033[m\]:\[\033[32m\]\W\[\033[m\] $"
 
 
 # simplify python
